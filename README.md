@@ -1,5 +1,5 @@
 # uni_conotes
-## Запуск
+## Інструкція для чайників
 Для зручного користування цими нотатками:
 - склонуйте собі цей репозиторій `git clone https://github.com/Ormared/uni_conotes.git`
 - скачайте та запустіть [obsidian](https://obsidian.md/download)
