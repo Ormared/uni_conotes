@@ -1,4 +1,9 @@
-(Adaptive Moment Estimation)
+---
+table of topics: "[[00 - ДО питання до іспиту]]"
+next: "[[Постановка задачі динамічного програмування]]"
+previous: "[[Метод RMSProp (running mean square)]]"
+---
+**(Adaptive Moment Estimation)**
 Комбінація [[Метод RMSProp (running mean square)]] і [[Метод імпульсів (momentum)]]
 
 У цьому методі одночасно використовуються ковзне середнє з експоненційним згладжуванням (забуванням) обидвох градієнтів і других моментів градієнтів 
